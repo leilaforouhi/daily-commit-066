@@ -1,4 +1,4 @@
-def gcd(a, b):
+def gcd(a, ):
     while b != 0:
         a, b = b, a % b
     return a
